@@ -1,0 +1,4 @@
+<category name="Dictionaries" colour="#15bad4" css-icon="customIcon fad fa-book-open-cover">
+    <label text="Custom"></label>
+    <block type="matrix_set_pixel"></block>
+</category>
